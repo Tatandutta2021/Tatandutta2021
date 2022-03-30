@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soumyadip dutta
 - 👀 I’m interested in ... Chess, Computer Games, Current Affairs.
-- 🌱 I’m currently learning ...Java & Salesforce and also applying for new jobs.
-- 💞️ I’m looking to collaborate on ... Any Company who will hire me.
+- 🌱 I’m currently learning ...Java Full Stack Development.
+- 💞️ I’m looking to work for my Career Growth.
 - 📫 How to reach me ... Email= tatan.dutta1998@gmail.com or Contact =+91-8972987244
 
 <!---
